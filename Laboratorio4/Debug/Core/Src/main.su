@@ -1,0 +1,11 @@
+../Core/Src/main.c:79:5:main	8	static
+../Core/Src/main.c:135:6:SystemClock_Config	88	static
+../Core/Src/main.c:183:13:MX_TIM6_Init	16	static
+../Core/Src/main.c:221:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:254:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:334:6:segmentos7	24	static
+../Core/Src/main.c:348:6:jugador1	16	static
+../Core/Src/main.c:373:6:jugador2	16	static
+../Core/Src/main.c:398:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:455:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:484:6:Error_Handler	4	static,ignoring_inline_asm
